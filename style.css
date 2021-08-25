@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    font-family: Nunito;
+    color: rgb(0, 86, 245);
+    margin-left: 7%;
+    font-size: 50px;
+}
+
+.grupo{
+    border: 0;
+    margin-bottom: 8px;
+    margin-top: 8px;
+
+}
+
+body {
+    background-color: #222121;
+    font-family: Nunito;
+    font-size: 1em;
+    color: #131212;
+    margin-left: 36%;
+    margin-top: 4%;
+    justify-content: center;
+    background-image: url('https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+    background-position: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bolder;
+    
+    
+
+}
+
+input, select, button{
+    border-radius: 5px;
+
+}
+
+.campo {
+    margin-bottom: 10px;
+
+}
+
+
+.conta {
+    color: rgb(42, 4, 255);
+    font-weight: bolder;
+    font-style: italic;
+}
+.pessoal {
+    color: rgb(42, 4, 255);
+    font-weight: bolder;
+    font-style: italic;
+}
+.endereco {
+    color: rgb(29, 4, 255);
+    font-weight:bolder;
+    font-style: italic;
+    
+}
+
+.campo label {
+    margin-bottom: 0.2em;
+    color: #000000;
+    font-style: italic;
+    
+}
+
+fieldset .grupo .campo{
+    float: left;
+    margin-right: 1em;
+
+}
+
+.campo input {
+    padding: 0.2em;
+    border: 1px solid #ffffff;
+    box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
+   
+}
+
+.campo select option {
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus{
+    background: #ffffff;
+}
+
+.botao {
+    font-size: 1.2em;
+    background: #3208ee;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff;
+    padding: 0.2em 0.6em;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.botao:hover{
+    background: #ffffff;
+}
+
+h2 {
+    font-size: 3em;
+    color: #000000;
+    font-family: Nunito;
+
+}
+
+input::placeholder{
+    color:rgb(7, 206, 7);
+}
+
