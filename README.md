@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PlayStation_logo.svg/1280px-PlayStation_logo.svg.png" alt="logo-play" width="300"> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png" alt="logo-play" width="600"> </p>
 
 
 
